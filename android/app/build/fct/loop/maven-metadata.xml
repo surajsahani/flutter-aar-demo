@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fct</groupId>
+  <artifactId>loop</artifactId>
+  <versioning>
+    <release>sdk</release>
+    <versions>
+      <version>sdk</version>
+    </versions>
+    <lastUpdated>20230306000000</lastUpdated>
+  </versioning>
+</metadata>
