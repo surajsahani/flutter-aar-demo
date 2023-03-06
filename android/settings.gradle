@@ -1,5 +1,6 @@
 include ':app'
-
+include ':logger-debug'
+include ':fct-loop-sdk-debug'
 def localPropertiesFile = new File(rootProject.projectDir, "local.properties")
 def properties = new Properties()
 
